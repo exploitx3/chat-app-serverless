@@ -15,7 +15,7 @@ These are the resources created by this project:
 
 12 Lambda Functions
 
-![alt tag](https://i.imgur.com/H0WR4fS.png)
+![alt tag](https://i.imgur.com/623Jvxj.png)
 ![alt tag](https://i.imgur.com/uFYWpQI.png)
 ![alt tag](https://i.imgur.com/5IVbzW3.png)
 
