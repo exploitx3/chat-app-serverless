@@ -1,5 +1,6 @@
 # Serverless chat using MQTT and WebSockets
 # chat-app-serverless
+[![CircleCI](https://circleci.com/gh/exploitx3/chat-app-serverless/tree/master.svg?style=svg)](https://circleci.com/gh/exploitx3/chat-app-serverless/tree/master)
 
 Pretty straightforward Serverless Framework project. Run `npm install` on the directory and make sure that you have the Serverless framework installed. You can find more information on how to get that set up [here](https://serverless.com/framework/docs/providers/aws/guide/quick-start/)
 
